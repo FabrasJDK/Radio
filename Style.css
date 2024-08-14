@@ -1,0 +1,61 @@
+img {
+    width: 120px;
+    height: 120px;
+    border-radius: 80px;
+}
+
+body {
+    margin: 70px 200px 20px 200px;
+    background-color: cornflowerblue;
+
+}
+
+h2 {
+    margin-left: 130px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 30px;
+}
+
+h1 {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+h3 {
+    background-color: white;
+
+}
+
+audio {
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+video {
+    margin-top: 50px;
+    margin-left: 3.5cm;
+    width: 400px;
+    height: 400px;
+
+}
+
+.titulo {
+    margin-top: 0;
+    background-color: white;
+    padding-top: 20;
+}
+
+.corpo {
+    background-color: cornflowerblue;
+    width: 100%;
+    margin: 0 auto;
+    box-shadow: 0px 0px 15px black;
+    border-radius: 8px 8px 8px 8px;
+}
+.radio{
+    align-items: center;
+    display: flex;
+    padding-top: 50px;
+    margin: 0px 50px 0px 50px;
+}
